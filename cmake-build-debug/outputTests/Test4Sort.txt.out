@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 7 elements.
+0: Beast: name = animal6, weight = 1, type = PREDATORS, Quotient = 680
+1: Beast: name = animal9, weight = 35, type = INSECTIVORES, Quotient = 19.5143
+2: Beast: name = animal6, weight = 42, type = PREDATORS, Quotient = 16.1905
+3: Bird: name = animal4, weight = 65, flyOrStay = 0, Quotient = 10.4308
+4: Bird: name = animal1, weight = 67, flyOrStay = 1, Quotient = 10.0746
+5: Beast: name = animal8, weight = 68, type = INSECTIVORES, Quotient = 10.0294
+6: Fish: name = animal5, weight = 76, type = RIVER, Quotient = 8.93421
