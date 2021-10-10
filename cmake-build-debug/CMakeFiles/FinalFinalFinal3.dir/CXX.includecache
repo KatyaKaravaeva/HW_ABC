@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.cpp
+container.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.h
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.h
+animal.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/animal.h
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/animal.h
+bird.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/bird.h
+fish.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/fish.h
+beast.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/beast.h
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/beast.h
+fstream
+-
+string
+-
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/bird.h
+fstream
+-
+string
+-
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/fish.h
+fstream
+-
+string
+-
+

@@ -1,0 +1,12 @@
+Input container:
+Container contains 10 elements.
+0: Bird: name = animal1, weight = 33, flyOrStay = 1, Quotient = 20.4545
+1: Beast: name = animal2, weight = 42, type = PREDATORS, Quotient = 16.0952
+2: Bird: name = animal3, weight = 34, flyOrStay = 0, Quotient = 19.9118
+3: Fish: name = animal4, weight = 23, type = RIVER, Quotient = 29.4783
+4: Beast: name = animal5, weight = 68, type = PREDATORS, Quotient = 9.98529
+5: Fish: name = animal6, weight = 43, type = RIVER, Quotient = 15.814
+6: Fish: name = animal7, weight = 42, type = LAKE, Quotient = 16.2143
+7: Fish: name = animal8, weight = 54, type = SEA, Quotient = 12.6296
+8: Bird: name = animal9, weight = 23, flyOrStay = 1, Quotient = 29.6957
+9: Bird: name = animal10, weight = 67, flyOrStay = 1, Quotient = 10.791

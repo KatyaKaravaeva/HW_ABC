@@ -1,0 +1,10 @@
+Sorted container:
+Container contains 8 elements.
+0: Fish: name = animal4, weight = 23, type = RIVER, Quotient = 29.4783
+1: Bird: name = animal1, weight = 23, flyOrStay = 1, Quotient = 29.3478
+2: Fish: name = animal8, weight = 34, type = LAKE, Quotient = 20.0588
+3: Fish: name = animal7, weight = 34, type = SEA, Quotient = 20.0294
+4: Bird: name = animal3, weight = 34, flyOrStay = 0, Quotient = 19.9118
+5: Beast: name = animal2, weight = 42, type = PREDATORS, Quotient = 16.0952
+6: Fish: name = animal6, weight = 45, type = RIVER, Quotient = 15.1111
+7: Beast: name = animal5, weight = 68, type = PREDATORS, Quotient = 9.98529
