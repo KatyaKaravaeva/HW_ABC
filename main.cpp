@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
         }
     } else if (!strcmp(argv[1], "-n")) {
         auto size = std::atoi(argv[2]);
-        if ((size < 1) || (size > 1999)) {
+        if ((size < 1) || (size > 10000)) {
             third_error(size);
             return 3;
         }
