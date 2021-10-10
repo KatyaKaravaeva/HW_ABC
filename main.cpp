@@ -26,12 +26,10 @@ void third_error(int size) {
 }
 
 int main(int argc, char *argv[]) {
-
     if (argc != 5) {
         first_error();
         return 1;
     }
-
     std::cout << "Start" << std::endl;
     container container{};
     Init(container);

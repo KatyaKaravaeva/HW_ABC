@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.cpp
-container.h
-C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.h
-
 C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.h
 animal.h
 C:/Users/kikin/CLionProjects/FinalFinalFinal3/animal.h
@@ -38,5 +34,25 @@ C:/Users/kikin/CLionProjects/FinalFinalFinal3/fish.h
 fstream
 -
 string
+-
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/includes.h
+string
+-
+
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+includes.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/includes.h
+container.h
+C:/Users/kikin/CLionProjects/FinalFinalFinal3/Container.h
+chrono
 -
 

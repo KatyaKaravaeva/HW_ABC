@@ -1,7 +1,0 @@
-1 animal1 67 1
-1 animal4 65 0
-3 animal5 76 98
-2 animal6 45 lake
-2 animal8 45 insectivores
-2 animal9 45 insectivores
-2 animal6 24 sea
